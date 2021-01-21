@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(225,225,225);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header{
+    background-color: white;
+}
+
+header img{
+    margin: 10px 0;
+    vertical-align: middle;
+}
+
+#title{
+    font-size: 40px;
+    font-weight: 800;
+    vertical-align: middle;
+}
+
+#container{
+    background-color: white;
+    margin: 40px 15%;
+}
+
+main{
+    padding-bottom: 20px;
+
+}
+
+.check,.uncheck{
+    font-size: 10px;
+    border-radius: 50%;
+    padding: 2px 4px;
+    border: 1px solid;
+}
+
+.check{
+    color: green;
+}
+
+.uncheck{
+    color: red;
+}
+
+nav{
+    padding: 20px 0 10px 50px;
+    border-bottom: 1px solid lightgrey;
+}
+
+#button_task,#button_section{
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+
+#button_task{
+    background-color: rgb(57,184,238);
+    border-color: rgb(57,184,238);
+    color: White;
+}
+
+#button_section{
+    background-color: white;
+    color: lightgrey;
+}
+
+section{
+    font-weight: bold;
+    margin: 30px 50px;
+
+}
+
+.category{
+    font-size: 25px;
+}
+
+.sub_category{
+    margin: 15px 0;
+}
+
+.option{
+    font-size: 18px;
+}
+
+.highlighted{
+    font-size: 12px;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.blue{
+    background-color: rgb(57,184,238);
+}
+
+.purple{
+    background-color: rgb(168,93,199);
+}
+
+.orange{
+    background-color: rgb(243,165,53);
+}
+
+.red{
+    background-color: rgb(173,14,164);
+}
+
+.green{
+    background-color: rgb(93,199,165);
+}
+
+.purple{
+    background-color: rgb(168,93,199);
+}
+
+.lime{
+    background-color: rgb(144,192,14);
+}s
